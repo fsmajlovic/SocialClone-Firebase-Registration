@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359481022303",
+    "firebase_url": "https://socialclone-e9d30.firebaseio.com",
+    "project_id": "socialclone-e9d30",
+    "storage_bucket": "socialclone-e9d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359481022303:android:44871a503991738d77c8ea",
+        "android_client_info": {
+          "package_name": "fsmajlovic.socialclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359481022303-r3jar7i265gumiphuob2f8los1b8gr7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fsmajlovic.socialclone",
+            "certificate_hash": "560317901c09d3b0a6b437b494b3483c2c255172"
+          }
+        },
+        {
+          "client_id": "359481022303-e9ou0lfqsedudjv7djsbolhst8st5h25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDVyQBG7maxkn2QnBPfAmEtBY8ZneKoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359481022303-e9ou0lfqsedudjv7djsbolhst8st5h25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
